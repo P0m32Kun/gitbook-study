@@ -8,7 +8,7 @@
 
 想要投稿文库中没有的漏洞时，请扫描下面的二维码加我备注文库投稿，欢迎师傅一起来建立文库啦~
 
-![WiKi文库](![](https://raw.githubusercontent.com/P0m32Kun/wiki_pic/main/logo.jpeg))
+![WiKi文库](https://raw.githubusercontent.com/P0m32Kun/wiki_pic/main/logo.jpeg)
 
 ## 使用需知
 
